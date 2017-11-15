@@ -1,2 +1,2 @@
 # cordility
-programming lessions for cordility
+programming lessions for codility
