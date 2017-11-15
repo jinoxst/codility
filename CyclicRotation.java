@@ -1,4 +1,4 @@
-public class CyclicRotation {
+class CyclicRotation {
 	public int[] solution(int[] A, int K) {
 		for(int i=0;i<K;i++) {
 			if(A.length > 0) {
