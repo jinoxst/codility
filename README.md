@@ -1,2 +1,2 @@
-# cordility
+# codility
 programming lessions for codility
